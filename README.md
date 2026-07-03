@@ -175,8 +175,3 @@ OK — All 10 unit tests passed ✅
 > Irvine, CA: University of California, School of Information and Computer Science.
 
 ---
-
-
----
-
-⭐ **If you found this helpful, please star the repo!** ⭐
